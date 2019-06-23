@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+.top-container{
+  margin-top: 0px;
+  width: 100%;
+  height: 100px;
+}
+
+.middle-container{
+  width: 100%;
+  height: 40px;
+}
+
+.bottom-container{
+  margin-top: 460px;
+  background-color: green;
+  width: 100%;
+  height: 43px;
+}
+
+h4{
+  color: DodgerBlue;
+  position:absolute;
+  right: 30px;
+  top: 50px;
+}
+
+.AFLogo{
+  top: 50px;
+  width: 400px;
+  height: 100px;
+}
+.Ahome{
+      position:absolute;
+      background:Tomato;
+      left: 20px;
+  	  width:315px;
+      height: 32px;
+  	  padding-top: 8px; }
+
+      .AGetInvolved{
+            position:absolute;
+            background:Tomato;
+            left: 335px;
+        	  width:315px;
+            height: 32px;
+        	  padding-top: 8px; }
+
+            .AAboutUs{
+                  position:absolute;
+                  background:Tomato;
+                  left: 650px;
+              	  width:315px;
+                  height: 32px;
+              	  padding-top: 8px; }
+
+                  .AContactUs{
+                        position:absolute;
+                        background:Tomato;
+                        Left: 965px;
+                    	  width:315px;
+                        height: 32px;
+                    	  padding-top: 8px; }
